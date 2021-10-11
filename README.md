@@ -2,7 +2,6 @@
 
 - 🖥️ Estudo HTML, CSS e JavaScript
 - 👨🏻‍💻 Desenvolvedor Front-End
-- ✉️ Contate-me pelo email vinicius.yg@gmail.com
 
 <div>
   <a href="https://github.com/Vinicius-Boschi">
