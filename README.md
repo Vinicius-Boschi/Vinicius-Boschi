@@ -25,3 +25,5 @@
   <a href="https://codepen.io/vinicius-simoes"><img src="https://img.shields.io/badge/CodePen-100000?style=for-the-badge&logo=codepen&logoColor=white"></a>
   <a href="https://portfolioviniciusboschi.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00B2FF?style=for-the-badge&logo=portfolio&logoColor=white"></a>
 </div>
+
+ ![Snake animation](https://github.com/Vinicius-Boschi/Vinicius-Boschi/blob/output/github-contribution-grid-snake.svg)
