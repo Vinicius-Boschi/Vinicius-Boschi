@@ -1,3 +1,6 @@
+
+<img width="800rem" src="https://c.tenor.com/s6eHxBGHvlIAAAAC/animation-cartoons.gif">
+
 ### Olá! Sou o Vinícius Boschi
 
 - 🖥️ Estudo HTML, CSS e JavaScript
