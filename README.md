@@ -16,7 +16,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Boschi-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">  
   <img align="center" alt="Boschi-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">  
-  <img align="center" alt="Boschi-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"> 
+  <img align="center" alt="Boschi-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Boschi-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
   <img align="right" alt="Gif-DannyPhantom" height="auto" width="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f96fa9ef-d7d0-4fa5-b3c8-a458e12dd84d/ddqelt5-4bd7e956-1884-43b1-9488-3532f3892788.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y5NmZhOWVmLWQ3ZDAtNGZhNS1iM2M4LWE0NThlMTJkZDg0ZFwvZGRxZWx0NS00YmQ3ZTk1Ni0xODg0LTQzYjEtOTQ4OC0zNTMyZjM4OTI3ODguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.x4kuLs9TWRpFVrAvDjU5pwTxD3tKX7f08taHHx3ny5Y"
 </div>
 
