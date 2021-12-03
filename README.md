@@ -34,8 +34,8 @@
   
 </div>
   
-##
-  
+#
   <div align="center">
-    https://profile-counter.glitch.me/Vinicius-Boschi/count.svg
+    <h3> Total de visitas ao perfil </h3>
+    <img src="https://profile-counter.glitch.me/Vinicius-Boschi/count.svg"
   </div>
