@@ -1,10 +1,16 @@
-
-<img width="800rem" src="https://c.tenor.com/s6eHxBGHvlIAAAAC/animation-cartoons.gif">
-
 ### Olá! Sou o Vinícius Boschi
 
-- 🖥️ Estudo HTML, CSS e JavaScript
-- 👨🏻‍💻 Desenvolvedor Front-End
+- 🖥️ Estudo HTML, CSS e JavaScript.
+- 👨🏻‍💻 Desenvolvedor Front-End.
+<img width="800rem" src="https://c.tenor.com/s6eHxBGHvlIAAAAC/animation-cartoons.gif">
+
+<h2> Github Stats </h2>
+
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com?user=Vinicius-Boschi&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+</div>
+
+###
 
 <div>
   <a href="https://github.com/Vinicius-Boschi">
@@ -22,17 +28,19 @@
 </div>
 
 ##
-
+  
 <div>
   <a href="mailto:vinicius.yg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/viniciusboschi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/vinicius_boschi/?hl=pt-br"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://codepen.io/vinicius-simoes"><img src="https://img.shields.io/badge/CodePen-100000?style=for-the-badge&logo=codepen&logoColor=white"></a>
   <a href="https://portfolioviniciusboschi.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00B2FF?style=for-the-badge&logo=portfolio&logoColor=white"></a>
-  
-  ![Snake animation](https://github.com/Vinicius-Boschi/Vinicius-Boschi/blob/output/github-contribution-grid-snake.svg) 
-  
 </div>
+
+  <div>
+    <img src="https://activity-graph.herokuapp.com/graph?username=Vinicius-Boschi&theme=redical">
+    <img src="https://github.com/Vinicius-Boschi/Vinicius-Boschi/blob/output/github-contribution-grid-snake.svg">
+  </div>
   
 #
   <div align="center">
