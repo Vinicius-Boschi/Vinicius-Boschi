@@ -2,7 +2,7 @@
 
 - 🖥️ Estudo JavaScript e VueJs.
 - 👨🏻‍💻 Desenvolvedor Front-End.
-- 📚 Graduando em Análise e Desenvolvimento de Sistemas na Fiap
+- 📚 Graduado em Análise e Desenvolvimento de Sistemas na Fiap
 <img width="800rem" src="https://c.tenor.com/s6eHxBGHvlIAAAAC/animation-cartoons.gif">
 
 <h2> Github Stats </h2>
